@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: #f1ede6;
+    background-color: #fefbf2;
     padding-top: 120px; 
 }
 
@@ -18,7 +18,7 @@ body {
     left: 0;
     width: 100%;
     padding: 20px 10%;
-    background: #cbad8d;
+    background: #5e6cb3;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -45,7 +45,7 @@ body {
 
 .navbar a:hover,
 .navbar a.active {
-    color: #4d3f34;
+    color: #f7ab3e;
     ;
 }
 .register-container {
@@ -54,16 +54,16 @@ body {
     width: 400px;
     margin: 80px auto;
     padding: 20px;
-    background-color: #f1ede6;
-    border: 1px solid #a48374;
+    background-color: #fefbf2;
+    border: 1px solid #252b48;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px #a48374;
+    box-shadow: 0px 0px 10px #252b48;
 }
 
 h3 {
     color: #f1ede6;
     margin-top: 0;
-    background-color: #cbad8d;
+    background-color: #5e6cb3;
     padding: 10px;
     border-radius: 5px;
     text-align: center;
@@ -76,7 +76,7 @@ h3 {
     display: block;
 }
 label{
-    color: #4d3f34;
+    color: #5e6cb3;
 }
 table {
     width: 100%;
@@ -91,7 +91,7 @@ input[type="password"] {
     width: 100%;
     padding: 8px;
     box-sizing: border-box;
-    border: 1px solid#a48374;
+    border: 1px solid#252b48;
     border-radius: 7px;
     background-color: transparent;
 }
@@ -101,20 +101,20 @@ input[type="password"]:focus {
     width: 100%;
     padding: 8px;
     box-sizing: border-box;
-    border: 1px solid#a48374;
+    border: 1px solid#252b48;
     border-radius: 7px;
     background-color: transparent;
 }
 
 button {
     padding: 10px 20px;
-    background-color: #f1ede6;
-    color: #4d3f34;
-    border: 1px solid #a48374 ;
+    background-color: #fefbf2;
+    color: #5e6cb3;
+    border: 1px solid #252b48 ;
     border-radius: 20px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #cbad8d;
+    background-color: #5e6cb3;
 }
