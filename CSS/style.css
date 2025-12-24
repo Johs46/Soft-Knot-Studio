@@ -27,7 +27,7 @@
 }
 
 body {
-    background: #f1ede6;
+    background: #fefbf2;
     color: black;
 }
 
@@ -37,7 +37,7 @@ body {
     left: 0;
     width: 100%;
     padding: 20px 10%;
-    background: #cbad8d;
+    background: #5e6cb3;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -64,7 +64,7 @@ body {
 
 .navbar a:hover,
 .navbar a.active {
-    color: #4d3f34;
+    color: #f7ab3e;
     ;
 }
 
@@ -142,7 +142,7 @@ body {
 .beranda-konten h4 {
     font-size: 15px;
     font-weight: 500;
-    color: #3a2d28;
+    color: #0c0e18;
 }
 
 .beranda-konten p {
@@ -165,11 +165,11 @@ body {
     width: 200px;
     height: 100%;
     background: transparent;
-    border: 2px solid  #3a2d28;
+    border: 2px solid  #252b48;
     border-radius: 35px;
     ;
     font-size: 19px;
-    color: #3a2d28;
+    color: #0c0e18;
     ;
     text-decoration: none;
     font-weight: 600;
@@ -180,7 +180,7 @@ body {
 }
 
 .btn-box a:hover {
-    color:#f1ede6;
+    color:#fefbf2;
     ;
 }
 
@@ -204,7 +204,7 @@ body {
     left: 0;
     width: 0;
     height: 100%;
-    background: #3a2d28;
+    background: #252b48;
     z-index: -1;
     transition: .5s;
 }
@@ -229,10 +229,10 @@ body {
     width: 40px;
     height: 40px;
     background: transparent;
-    border: 2px solid #3a2d28;
+    border: 2px solid #0c0e18;
     border-radius: 50%;
     font-size: 20px;
-    color: #3a2d28;
+    color: #0c0e18;
     text-decoration: none;
     z-index: 1;
     overflow: hidden;
@@ -250,7 +250,7 @@ body {
     left: 0;
     width: 0;
     height: 100%;
-    background: #3a2d28;
+    background: #252b48;
     z-index: -1;
     transition: .5s;    
 }
