@@ -27,7 +27,7 @@
 }
 
 body {
-    background: #f1ede6;
+    background: #fefbf2;
     color: black;
 }
 
@@ -37,7 +37,7 @@ body {
     left: 0;
     width: 100%;
     padding: 20px 10%;
-    background: #cbad8d;
+    background: #5e6cb3;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -64,7 +64,7 @@ body {
 
 .navbar a:hover,
 .navbar a.active {
-    color: #4d3f34;
+    color: #f7ab3e;
     ;
 }
 
@@ -82,19 +82,19 @@ body {
     width: 90%;
     padding: 20px;
     margin: 50px auto;
-    background: #f1ede6;
+    background: #fefbf2;
     transition: all 0.5s ease;
-    border: 1px solid #cbad8d;
-    -webkit-box-shadow: 1px 1px 1px 0px #a48374;
-    -moz-box-shadow: 1px 1px 1px 0px #a48374;
-    box-shadow: 1px 1px 1px 0px #a48374;
+    border: 1px solid #252b48;
+    -webkit-box-shadow: 1px 1px 1px 0px #252b48;
+    -moz-box-shadow: 1px 1px 1px 0px #252b48;
+    box-shadow: 1px 1px 1px 0px #252b48;
     border-radius: 5px 5px;
-    background-color: #f1ede6;
+    background-color: #fefbf2;
 }
 
 .conteudo:hover{
-    border-bottom: 4px solid  #a48374;
-    box-shadow: 5px 5px 5px 0px #a48374;
+    border-bottom: 4px solid  #252b48;
+    box-shadow: 5px 5px 5px 0px #252b48;
 }
 
 .conteudo img {
@@ -113,13 +113,13 @@ body {
 }
 .conteudo h2{
     font-weight: normal;
-    color: #4d3f34;
+    color: #252b48;
     font-weight: bold;
 }
 
 .conteudo h3{
     font-weight: normal;
-    color: #4d3f34;
+    color: #252b48;
     text-align: center;
     font-weight: bold;
     margin-top: -50px;
@@ -133,7 +133,7 @@ body {
 
 
 .conteudo P:last-child{
-    color: #4d3f34;
+    color: #252b48;
     transition: all 0.5s ease;
     text-decoration: none;
     font-weight: 500;
@@ -141,7 +141,7 @@ body {
 }
 
 .conteudo P ul{
-    color: #4d3f34;
+    color: #0c0e18;
     transition: all 0.5s ease;
     text-decoration: none;
     font-weight: 100;
@@ -149,7 +149,7 @@ body {
 }
 
 .conteudo P{
-     color: #352c25;
+     color: #0c0e18;
     text-align: justify;
 }
 
@@ -186,7 +186,7 @@ body {
 } 
 
 .beranda-sci a:hover {
-    color: #f1ede6;
+    color: #fefbf2;
 }
 
 .beranda-sci a::before {
