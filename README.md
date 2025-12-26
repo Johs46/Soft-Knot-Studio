@@ -1,4 +1,4 @@
-# Website Soft Knot Studio
+# Website Sapa Simpul
 Website ini merupakan penugasan untuk mata kuliah Search Engine Optimization yang menggunakan HTML, CSS, dan JavaScript.
 Dosen Pengampu: Inkreswari Retno Hardini, S.Kom., M.T.
 Dibuat oleh Kelompok 5:
